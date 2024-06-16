@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left" >Skills</h2>
 
 ###
 
@@ -35,8 +35,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
-  <img width="15" />
+
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
 </div>
 
