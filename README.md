@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/XOsX.gif"  />
+<img align="right" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNvOywmcyKtDjBMH2L7PNynL3U3rHVKIAXzeJU0JfBrpnctZP4wQYZSYT6O9lB-YvMbaaGpsUFRIHRcmelKsIegaO0blx-WJpYfhF77eQuQ0M6kYhNKS_hLepcaxynBh3eCzhXaxIDCAnWKtM37xH-pMbmAtMu-6KF6rDvYNUK5uxl41sEkWfLI6PI/s480/duck_conf.gif"  />
 
 ###
 
