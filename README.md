@@ -1,10 +1,3 @@
-<style>
-  *{
-  text-decoration:none
-  }
-</style>
-
-
 <h2 align="left">Hi 👋! My name is Amir and I'm a Fullstack Developer intrested in web Development!</h2>
 
 ###
