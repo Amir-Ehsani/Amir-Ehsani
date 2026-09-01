@@ -35,8 +35,13 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="15" />
-
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
 </div>
 
 ###
